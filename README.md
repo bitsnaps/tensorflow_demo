@@ -1,5 +1,10 @@
 # Tensorflow Demo
 
+
+Update
+============
+This is an update of the original example (by Siraj) for python3, tested on Windows7 using conda v4.3
+
 Overview
 ============
 This project helps train a classifier to recognize handwritten character images [MNIST digits](http://yann.lecun.com/exdb/mnist/). It uses logistic regression as it's model and trains on a small MNIST dataset before testing the trained model on it. You can view the constructed data flow graph using Tensorboard in your browser after training. This is the code for TensorFlow in 5 Min on [Youtube](https://youtu.be/2FmcHiLCwTU)
